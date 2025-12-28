@@ -21,6 +21,8 @@ i just said in the summary brothery brother
 - just open it or `python "top gibberish.py"` or whatever
 
 ## **Note:**
+- make sure the terminal directory is at the same directory as the main python file
 - i don't expect people to use this for longer than 7 days so it might break
 - i don't use MacOS or linux so i don't know shit and i don't give a fuck
 - if you caught me saying *"I uSe aRCh BtW"* It's **AI generated** It's **NOT** real I **DID NOT** say that okay?
+- licensing under MIT
