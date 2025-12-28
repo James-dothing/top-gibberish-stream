@@ -1,4 +1,4 @@
-thanks to [@shidbot420-official](https://github.com/shidbot420-official) for the live streaming help :3
+thanks to [@shidbot420-official](https://github.com/shidbot420-official) for the live streaming help and the inspiration :3
 # **Top gibberish stream**
 A auto generate live stream that makes a gibberish word and ranks them(random) with music and rarities to *entertain* your viewer.
 
