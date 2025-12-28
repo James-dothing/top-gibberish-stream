@@ -14,6 +14,8 @@ i just said in the summary brothery brother
     - Download from the official website: https://www.ffmpeg.org/download.html
 - Library:
   - Pillow — ( `pip install pillow` )
+- Config:
+  - make sure you put your stream key into the stream_key variable in the main script
 - Config files:
   - Music — (Name it "Music.mp3", make sure it's in the same folder as the main python file)
 
